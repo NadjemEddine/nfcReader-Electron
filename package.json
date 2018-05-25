@@ -1,0 +1,19 @@
+{
+  "name": "nfc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^2.0.2",
+    "nfc-pcsc": "^0.6.2"
+  },
+  "devDependencies": {
+    "electron-rebuild": "^1.7.3"
+  }
+}
