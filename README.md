@@ -1,13 +1,13 @@
-###############################################################
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
       NFC implementation using Electron and NFC-pcsc
-###############################################################
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::NPM Packages::
 
-> nfc-pcsc
-> electron
-> electron-rebuild (for rebuilding nfc-pcsc with electron)
-> windows-build-tools (https://www.npmjs.com/package/windows-build-tools)
+- nfc-pcsc
+- electron
+- electron-rebuild(for rebuilding nfc-pcsc with electron)
+- windows-build-tools(https://www.npmjs.com/package/windows-build-tools)
 
 ::Setup process for windows after cloning git repo::
 
